@@ -68,6 +68,12 @@ win_name = 'Work'
 png = 'move.png'
 win_name = 'Move'
 
+[cursors.pointer-move]
+png = 'pointer-move.png'
+x_hotspot = 55
+y_hotspot = 17
+win_name = 'PointerMove'
+
 [cursors.pencil]
 png = 'pencil.png'
 x_hotspot = 46
