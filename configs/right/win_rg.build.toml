@@ -68,6 +68,12 @@ win_sizes = "64:96"
 png = 'move.png'
 win_name = 'Move'
 
+[cursors.pointer-move]
+png = 'pointer-move.png'
+x_hotspot = 207
+y_hotspot = 24
+win_name = 'PointerMove'
+
 [cursors.pencil]
 png = 'pencil.png'
 x_hotspot = 46
